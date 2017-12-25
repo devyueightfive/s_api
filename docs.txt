@@ -1,0 +1,1 @@
+http://dota2.readthedocs.io/en/stable/
